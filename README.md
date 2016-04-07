@@ -1,7 +1,7 @@
 # practice-RWD
 a practice of responsible website design
 
-总体思路：
+<!-- 总体思路 
 1.采用Mobile First原则，创建grid-based形式的layout.css。
 2.背景图采用自适应缩放。
 3.采用Media queries实现在不同尺寸的设备中，显示对应的页面。
@@ -21,3 +21,5 @@ a practice of responsible website design
 	2)不同的屏幕尺寸对应不同的字体大小;
 	3)不同的margin和padding值;
 	4)结合在HTML中添加的相应的类，在layout.css和modules.css中对不同的屏幕尺寸进行分别设置。
+	
+-->
